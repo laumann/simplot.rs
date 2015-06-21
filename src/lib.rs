@@ -355,7 +355,7 @@
 
 #![deny(missing_docs)]
 #![deny(warnings)]
-#![feature(collections)]
+#![feature(vec_push_all)]
 #![feature(into_cow)]
 
 extern crate byteorder;
